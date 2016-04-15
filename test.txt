@@ -7,3 +7,5 @@ now it changes
 this is the new function
 
 this is the new funtion too
+
+newfunction分支当中没有test2工程，这里做标识
