@@ -2,3 +2,8 @@ this a project for test
 
 
 now it changes
+
+
+this is the new function
+
+this is the new funtion too
