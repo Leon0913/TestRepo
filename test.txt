@@ -8,4 +8,6 @@ this is the new function
 
 this is the new funtion too
 
-newfunction分支当中没有test2工程，这里做标识
+newfunction鍒嗘敮褰撲腑娌℃湁test2宸ョ▼锛岃繖閲屽仛鏍囪瘑
+
+绾夸笂鐨勪唬鐮佹敼鍙樹簡锛宲ull鍒版湰鍦板簲璇ュ彲浠ョ湅鍒板唴瀹圭殑鍙樻洿
